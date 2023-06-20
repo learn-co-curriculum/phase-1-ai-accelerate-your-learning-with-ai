@@ -79,19 +79,16 @@ guidelines that can help keep the chatbot from going off track:
    online. But it’s completely fine to start with simple questions about
    concepts you want to learn more about and ask follow-up questions for further
    clarifications.
-2. ********************\*\*\*\*********************Code
-   Examples:********************\*\*\*\********************* Chatbots can
-   generate code samples along with line-by-line explanations for the code they
-   generate. You can ask the chatbot to “provide examples to explain the concept
-   of callbacks” as a starting point and then ask clarifications on specific
-   parts of the code.
-3. ****************************\*\*****************************Real-world
-   Examples:****************************\*\*****************************
-   Chatbots can also provide case studies and show how concepts you may already
-   know relate to new concepts you’re trying to learn. For example, when you’re
-   learning about sorting, you can ask the chatbot, “what are some real-world
-   applications of sorting algorithms?” and it will tell you about their role in
-   search engines, databases, contact lists with detailed overview.
+2. **Code Examples:** Chatbots can generate code samples along with line-by-line
+   explanations for the code they generate. You can ask the chatbot to “provide
+   examples to explain the concept of callbacks” as a starting point and then
+   ask clarifications on specific parts of the code.
+3. **Real-world Examples:** Chatbots can also provide case studies and show how
+   concepts you may already know relate to new concepts you’re trying to learn.
+   For example, when you’re learning about sorting, you can ask the chatbot,
+   “what are some real-world applications of sorting algorithms?” and it will
+   tell you about their role in search engines, databases, contact lists with
+   detailed overview.
 4. **Code Tracing:** Chatbots can provide a step-by-step walkthrough of code
    snippets along with explanations for each step. Provide the chatbot with your
    code snippet and ask it to “trace the execution path of the following code in
